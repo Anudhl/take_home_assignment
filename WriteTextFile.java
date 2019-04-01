@@ -11,7 +11,7 @@ public class WriteTextFile {
 		// TODO Auto-generated method stub
 
 	
-	String path ="//Users//ashishpaudyal//myWriteData.txt";	
+	String path ="..//myWriteData.txt";	
 	
 	File f = new File(path);
 	
